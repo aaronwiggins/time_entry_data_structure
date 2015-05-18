@@ -6,7 +6,6 @@ class TimeOnProjectsMigration < ActiveRecord::Migration
       t.integer :project_id
       t.integer :developer_id
       t.date :date
-      t.float :time_worked_on
     end
   end
 end
