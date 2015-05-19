@@ -6,3 +6,6 @@ The diagram will show relationshipsb between tables. Each table has it's own mig
 to create live databases
 
 ###How to Run...
+* Download [SQLite Browser](https://github.com/sqlitebrowser/sqlitebrowser/releases/tag/v3.5.1)
+* Clone Repository
+* Open `db.sqlite3`through SQLite Browser
